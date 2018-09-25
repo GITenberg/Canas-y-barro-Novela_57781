@@ -1,0 +1,28 @@
+_repo: Canas-y-barro-Novela_57781
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: ''
+gutenberg_issued: '2018-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57781'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cañas y barro
+
+  Novela'
+url: http://www.gutenberg.org/ebooks/57781
